@@ -47,7 +47,7 @@ body {
     font-size: 15px;
     line-height: 30px;
     font-weight: 400;
-    color: #a88590;
+    color: #ECA57E;
     background-color: #fff;
     overflow-x: hidden;
 }
@@ -256,7 +256,7 @@ a.button:hover {
     width: 25px;
     position: relative;
     height: 30px;
-    color: #c6646b;
+    color: #f3c4aa;
 }
 
 .current-num span {
@@ -325,7 +325,7 @@ img.my-info-signature {
 
 .current-big-num {
     font-size: 160px;
-    -webkit-text-stroke: 3px #c6646b;
+    -webkit-text-stroke: 3px #f3c4aa;
     color: transparent;
     font-weight: 800;
     line-height: 100%;
@@ -347,7 +347,7 @@ img.my-info-signature {
     margin-left: -20px;
     bottom: 25px;
     margin-top: -35px;
-    box-shadow: inset 0 0 0 3px #c6646b;
+    box-shadow: inset 0 0 0 3px #f3c4aa;
     border-radius: 25px;
     transition: right .5s;
 }
@@ -356,7 +356,7 @@ img.my-info-signature {
     content: '';
     width: 8px;
     height: 8px;
-    background: #c6646b;
+    background: #f3c4aa;
     margin-left: -4px;
     top: 8px;
     border-radius: 4px;
@@ -464,7 +464,7 @@ img.my-info-signature {
     display: block;
     width: 0;
     height: 16px;
-    background-color: #c6646b;
+    background-color: #f3c4aa;
     transition: width .3s;
     position: absolute;
     left: -5%;
@@ -489,7 +489,7 @@ img.my-info-signature {
 }
 
 .sm-clean a span.sub-arrow {
-    color: #c6646b;
+    color: #f3c4aa;
 }
 
 .main-menu.sm-clean .sub-menu li a {

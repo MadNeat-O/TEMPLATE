@@ -90,34 +90,34 @@ h4,
 h5,
 h6 {
     padding: 20px 0;
-    color: #F37B83;
+    color: #e99568;
 }
 
 h1 {
     font-size: 38px;
-    line-height: 38px;    
+    line-height: 38px;
 }
 
 h2 {
-    font-size: 34px;    
-    line-height: 34px;    
+    font-size: 34px;
+    line-height: 34px;
 }
 
 h3 {
-    font-size: 32px;  
-    line-height: 32px;    
+    font-size: 32px;
+    line-height: 32px;
 }
 
 h4 {
-    font-size: 30px;    
+    font-size: 30px;
 }
 
 h5 {
-    font-size: 28px;   
+    font-size: 28px;
 }
 
 h6 {
-    font-size: 26px;    
+    font-size: 26px;
 }
 
 em {
@@ -133,8 +133,8 @@ pre {
     white-space: pre-wrap;
 }
 
-table, 
-th, 
+table,
+th,
 td {
     border:1px solid black;
     padding: 10px;
@@ -169,7 +169,7 @@ sub {
     clear: both;
 }
 
-.one-half { 
+.one-half {
     margin-right: 10%;
     float: left;
     position: relative;
@@ -180,7 +180,7 @@ sub {
 }
 
 .width-40 {
-    width: 40%;    
+    width: 40%;
     margin-right: 5%;
 }
 
